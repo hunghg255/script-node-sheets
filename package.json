@@ -1,0 +1,18 @@
+{
+  "name": "google-sheet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "hunghg255",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^10.3.10",
+    "google-auth-library": "^9.4.1",
+    "google-spreadsheet": "^4.1.1",
+    "xlsx": "^0.18.5"
+  }
+}
